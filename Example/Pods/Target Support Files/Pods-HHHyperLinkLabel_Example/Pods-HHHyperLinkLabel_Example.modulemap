@@ -1,0 +1,6 @@
+framework module Pods_HHHyperLinkLabel_Example {
+  umbrella header "Pods-HHHyperLinkLabel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

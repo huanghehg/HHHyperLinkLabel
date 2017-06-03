@@ -1,0 +1,6 @@
+framework module HHHyperLinkLabel {
+  umbrella header "HHHyperLinkLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

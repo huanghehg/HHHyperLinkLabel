@@ -1,0 +1,16 @@
+PODS:
+  - HHHyperLinkLabel (0.1.0)
+
+DEPENDENCIES:
+  - HHHyperLinkLabel (from `../`)
+
+EXTERNAL SOURCES:
+  HHHyperLinkLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HHHyperLinkLabel: d434e1f2dc4148545d7b00b4e5ebcca9b2f709a3
+
+PODFILE CHECKSUM: 9fa060b91957f923135dd63f845a0ec437ddb224
+
+COCOAPODS: 1.2.1

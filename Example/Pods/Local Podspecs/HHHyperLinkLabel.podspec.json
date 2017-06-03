@@ -1,0 +1,22 @@
+{
+  "name": "HHHyperLinkLabel",
+  "version": "0.1.0",
+  "summary": "A short description of HHHyperLinkLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/huanghehg/HHHyperLinkLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huanghehg": "hulatang@2dfire.com"
+  },
+  "source": {
+    "git": "https://github.com/huanghehg/HHHyperLinkLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HHHyperLinkLabel/Classes/**/*"
+}
