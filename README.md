@@ -22,7 +22,7 @@ pod "HHHyperLinkLabel"
 
 ## Author
 
-huanghehg, hulatang@2dfire.com
+huanghehg, 
 
 ## License
 
