@@ -1,8 +1,10 @@
 PODS:
   - HHHyperLinkLabel (0.1.0)
+  - Masonry (1.0.2)
 
 DEPENDENCIES:
   - HHHyperLinkLabel (from `../`)
+  - Masonry
 
 EXTERNAL SOURCES:
   HHHyperLinkLabel:
@@ -10,7 +12,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   HHHyperLinkLabel: d434e1f2dc4148545d7b00b4e5ebcca9b2f709a3
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
 
-PODFILE CHECKSUM: 9fa060b91957f923135dd63f845a0ec437ddb224
+PODFILE CHECKSUM: 305e627fdff7e5f57c72cb792804a146886cb954
 
 COCOAPODS: 1.2.1

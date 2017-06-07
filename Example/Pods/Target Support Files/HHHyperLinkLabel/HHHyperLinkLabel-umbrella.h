@@ -10,6 +10,10 @@
 #endif
 #endif
 
+#import "HHCoreTextData.h"
+#import "HHFrameParser.h"
+#import "HHFrameParserConfig.h"
+#import "HHHyperLinkLabel.h"
 
 FOUNDATION_EXPORT double HHHyperLinkLabelVersionNumber;
 FOUNDATION_EXPORT const unsigned char HHHyperLinkLabelVersionString[];
