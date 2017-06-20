@@ -18,9 +18,9 @@
     
     CGSize restrictSize = CGSizeMake(width, CGFLOAT_MAX);
     CGSize coreTextSize = CTFramesetterSuggestFrameSizeWithConstraints(framesetter, CFRangeMake(0, 0), nil, restrictSize, nil);
+    
     CGMutablePathRef path = CGPathCreateMutable();
     CGPathAddRect(path, NULL, CGRectMake(0, 0, width, coreTextSize.height));
-    
     CTFrameRef frame = CTFramesetterCreateFrame(framesetter, CFRangeMake(0, attributedString.length), path, NULL);
     HHCoreTextData *coreTextData = [[HHCoreTextData alloc] init];
     coreTextData.frameRef = frame;
@@ -33,5 +33,7 @@
 - (CGFloat)heightWithFrame {
     return 0;
 }
+
+
 
 @end

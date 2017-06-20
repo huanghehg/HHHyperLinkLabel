@@ -11,48 +11,51 @@
 		068EF598E554EC57038ACFB89CC2C47A /* View+MASAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = FF217FE4E512E3883BAD867868CB42D9 /* View+MASAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		091D17D5D8F832D28546A72B788CF0AE /* MASViewConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = 1F0183E721D7FD6AF70B4A911C1B1B95 /* MASViewConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0B870AA34AD99A7A4B574CF96FEE1AFE /* Pods-HHHyperLinkLabel_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 15EA24C80D87501F36F5CBD3A1406645 /* Pods-HHHyperLinkLabel_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0E0F09F3C1371A0C1B73D839731C5D0B /* HHHyperLinkLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = 915556BD35976AB76DB091349FD312D9 /* HHHyperLinkLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0E0F09F3C1371A0C1B73D839731C5D0B /* HHHyperLinkLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = 530B50BCBF324B7551E26F656D94A0AF /* HHHyperLinkLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0F3DF5C3BEFCC9838B53C37735B414BE /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = A214B89738295B4A4B00EEB1960E8865 /* NSLayoutConstraint+MASDebugAdditions.m */; };
 		0FDB2B4F75591851F0F119EAE70B3F63 /* NSLayoutConstraint+MASDebugAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F69E835336330FF06E7268D32D667C9 /* NSLayoutConstraint+MASDebugAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1F71C53A95A15DF35E3D1490A6022F2E /* HHCoreTextData.h in Headers */ = {isa = PBXBuildFile; fileRef = 7DA273313B68ABD7E1D36F094C5BA9AA /* HHCoreTextData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		16A8BD9A4FACCAB874CB68315BF6C3A8 /* HHCoreTextData.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F391C211912179D9152F5CEE527A584 /* HHCoreTextData.m */; };
+		1F71C53A95A15DF35E3D1490A6022F2E /* HHCoreTextData.h in Headers */ = {isa = PBXBuildFile; fileRef = 49F60E799670EBD8F3675218243969A7 /* HHCoreTextData.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		212A220C083BD84256732E28C75022BE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
 		2854C9B1086758BD2B6681206B6759B4 /* ViewController+MASAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = C6D5C71A7A4B3156186EC98A377E8543 /* ViewController+MASAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		34C59E32D9DCC5806F099E75CD66F0EF /* Pods-HHHyperLinkLabel_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F4D6FA2C6B387DD228426622CD3B83EA /* Pods-HHHyperLinkLabel_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		38E0CD63021889EE46E1A6B9FA0415F5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */; };
 		3B3387A6705AA5C453FAE20BDF8DF62A /* Pods-HHHyperLinkLabel_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BBB46C9992E8F9A0ECD777CDC6D44ED5 /* Pods-HHHyperLinkLabel_Tests-dummy.m */; };
 		432FA22864D148EBD4CB22F55AB68004 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
-		44C32B0B0A7AEFEAB9AB8C56C04A7EB9 /* HHFrameParser.h in Headers */ = {isa = PBXBuildFile; fileRef = D5BFE529EFA3E6AE5388458020F686E8 /* HHFrameParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		44C32B0B0A7AEFEAB9AB8C56C04A7EB9 /* HHFrameParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 41C41BBCAB844849C17E477FF8614246 /* HHFrameParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		457ACF9150DCF9AF445B129CC9678FB6 /* Masonry-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 13FC8E35EDBC629D62166DD797E6DE52 /* Masonry-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4D4F2050654580FE1F1D5F4F82CEDDB8 /* MASConstraint+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 77F2CF8861113B6F7AAE7EA65C6A7C1B /* MASConstraint+Private.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		53BDF81D0A52EA526D597A5C5B139D7F /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 537638D0C329C86D4ED401237F5D895F /* MASCompositeConstraint.m */; };
 		59F81DE0305CC2AC448D2A3C6B3280A2 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 986CB32629319F7F2256662716334944 /* MASConstraint.m */; };
+		6099AEF9A68B05B080CDD7723CA4B9C1 /* HHHyperLinkLabel-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E65DF549F3CFBED1F541808DB0321DEA /* HHHyperLinkLabel-dummy.m */; };
 		636BBA734C1A17A734761D674FAE8800 /* MASViewAttribute.h in Headers */ = {isa = PBXBuildFile; fileRef = 96DCAB46CA2931B8140F2639F17404AF /* MASViewAttribute.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6ABB13C001C0DD4979607463DE8BE5F5 /* HHFrameParserConfig.m in Sources */ = {isa = PBXBuildFile; fileRef = D375398A1F8981B092142153C786E96E /* HHFrameParserConfig.m */; };
 		6C23BBF56ED4DCC10CA1765A6736D1F8 /* MASLayoutConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 611E26C24600589F4729E5EF510272FB /* MASLayoutConstraint.m */; };
+		6C672E761EF3E31F00885A25 /* HHCoreTextDataUtil.h in Headers */ = {isa = PBXBuildFile; fileRef = 6C672E741EF3E31F00885A25 /* HHCoreTextDataUtil.h */; };
+		6C672E771EF3E31F00885A25 /* HHCoreTextDataUtil.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C672E751EF3E31F00885A25 /* HHCoreTextDataUtil.m */; };
+		6C672E7A1EF3E63000885A25 /* HHCoreTextLinkModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 6C672E781EF3E63000885A25 /* HHCoreTextLinkModel.h */; };
+		6C672E7B1EF3E63000885A25 /* HHCoreTextLinkModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C672E791EF3E63000885A25 /* HHCoreTextLinkModel.m */; };
 		6F27132EC49C63A9FC0A69DEB61E08A2 /* Pods-HHHyperLinkLabel_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A01FB98F98F2E2D29B472BCF370019A /* Pods-HHHyperLinkLabel_Example-dummy.m */; };
-		71B562ACCA9CACE5E1D85729653E0C10 /* HHFrameParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 27F363BC6E2486EDFEB5DCB1909F275D /* HHFrameParser.m */; };
 		73BBDACC22CCA36A6DAAA167AD780BAF /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = FF3818136FED67BD32E3A7FAEDE4F68F /* MASConstraintMaker.m */; };
 		756DF24546C7D91459DCADC8F1C98660 /* MASViewConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E4875E63FFAFF84A3CDFE99F28B551E /* MASViewConstraint.m */; };
 		7C17BEA6034027310D1D205DB2008CA5 /* MASLayoutConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = C484EF8499F67EC81CA7E27930A63CDC /* MASLayoutConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		867C062D0A77A6DC368B8C34EF77720B /* HHCoreTextData.m in Sources */ = {isa = PBXBuildFile; fileRef = C7020A7C1B683FAD842579C748432B8A /* HHCoreTextData.m */; };
 		88DE7BAB1F4999A5F4B617F44E5FD1D3 /* MASConstraintMaker.h in Headers */ = {isa = PBXBuildFile; fileRef = A02D339E60E114FCC992372E93245BA1 /* MASConstraintMaker.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8A6EEF68E7625AB66A3A8DED1594F88F /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 3980E01C213ECEDEABAC38C1CFD3946D /* ViewController+MASAdditions.m */; };
 		8CD45B754192DE834B642975E85257AB /* MASCompositeConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = 79BEFB59B86F59C579FF7594DCF78FEB /* MASCompositeConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		908187AD3067237217C5AE75B18E66E7 /* HHHyperLinkLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 677C0A2CA68E3DFD783C325287FDA1E0 /* HHHyperLinkLabel.m */; };
 		A08A8AB356264E248D01F1BC0EF08166 /* Masonry-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FE937DE71A73D4B7779FF934EC2373E2 /* Masonry-dummy.m */; };
 		A0C16E0B3B5DD7A4FC0DD8C9209757D0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
 		A4778FDB8A738C98B52EE2B996DB2E40 /* HHHyperLinkLabel-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 89E85C8ED3DBD9557C1751723BD1EE6C /* HHHyperLinkLabel-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A7370CE9231F9A4927142D79021879EC /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = 0925CC604B01F156279E8952DDE3EDDB /* MASViewAttribute.m */; };
+		B1A648BB95D741504753D9B143F86C61 /* HHHyperLinkLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 43CEDFE54DFF76B48D6B00851B04D33B /* HHHyperLinkLabel.m */; };
 		B44383A3FA435C1E986942C817339302 /* View+MASShorthandAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 61881F60AB333EA86CE7881063A4BA60 /* View+MASShorthandAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C0A16E00B4BC2D88A7833D5DAED62942 /* NSArray+MASAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 5A649F9297535214EF97548C9EA9FA33 /* NSArray+MASAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C8DF22EAFFC2F81B0426E2165AC93E44 /* MASConstraint.h in Headers */ = {isa = PBXBuildFile; fileRef = ECBBB506D4D551AB1A637EE3145A459E /* MASConstraint.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		CC8F9B4A1AC4E276EA8AA4C6F2BF3CD4 /* Masonry.h in Headers */ = {isa = PBXBuildFile; fileRef = 303B58A2959C8EEE96799AD558DDA1D3 /* Masonry.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D5B92D07DBF01272CCD04641874EDE56 /* HHFrameParser.m in Sources */ = {isa = PBXBuildFile; fileRef = 15C1083629A060BC12F24656EA98353E /* HHFrameParser.m */; };
 		D8B1525CB3DFCBD8E5032680530413D9 /* NSArray+MASShorthandAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = F8187F5CAD09C6C6B2B54C65B4A807C9 /* NSArray+MASShorthandAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E72EDE323AC9F92EC8A00A93AC186093 /* NSArray+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = B1C550CDA10D592ABB6A0383A3509F05 /* NSArray+MASAdditions.m */; };
-		EF54E229B655CDC2EE9F140CBF6FE49E /* HHHyperLinkLabel-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E65DF549F3CFBED1F541808DB0321DEA /* HHHyperLinkLabel-dummy.m */; };
 		EF9D38E8A11E7D1933FE7F8415E3B595 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */; };
 		F4B3E44D5D2F6508BC1BB35A9FBDEC70 /* View+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EC0A25DD6F58D072A4ACFC92D9237BF /* View+MASAdditions.m */; };
-		FCD8638EF43B0590669F5D0D7C62E3E0 /* HHFrameParserConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 17DAABB56EDADF5371FB8641CAC404E8 /* HHFrameParserConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FCD8638EF43B0590669F5D0D7C62E3E0 /* HHFrameParserConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = 82562329D6C8F424AC256C08F81795FF /* HHFrameParserConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,18 +79,21 @@
 		0925CC604B01F156279E8952DDE3EDDB /* MASViewAttribute.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASViewAttribute.m; path = Masonry/MASViewAttribute.m; sourceTree = "<group>"; };
 		10660A854BA6E011F0B9854B4FC01A56 /* Pods-HHHyperLinkLabel_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HHHyperLinkLabel_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		13FC8E35EDBC629D62166DD797E6DE52 /* Masonry-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Masonry-umbrella.h"; sourceTree = "<group>"; };
-		14ECBEB30865FD315257441C05EB6169 /* Pods_HHHyperLinkLabel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HHHyperLinkLabel_Example.framework; path = "Pods-HHHyperLinkLabel_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		14ECBEB30865FD315257441C05EB6169 /* Pods_HHHyperLinkLabel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HHHyperLinkLabel_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		15C1083629A060BC12F24656EA98353E /* HHFrameParser.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = HHFrameParser.m; sourceTree = "<group>"; };
 		15EA24C80D87501F36F5CBD3A1406645 /* Pods-HHHyperLinkLabel_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HHHyperLinkLabel_Tests-umbrella.h"; sourceTree = "<group>"; };
-		17DAABB56EDADF5371FB8641CAC404E8 /* HHFrameParserConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HHFrameParserConfig.h; sourceTree = "<group>"; };
 		1F0183E721D7FD6AF70B4A911C1B1B95 /* MASViewConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewConstraint.h; path = Masonry/MASViewConstraint.h; sourceTree = "<group>"; };
-		27F363BC6E2486EDFEB5DCB1909F275D /* HHFrameParser.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = HHFrameParser.m; sourceTree = "<group>"; };
 		2F69E835336330FF06E7268D32D667C9 /* NSLayoutConstraint+MASDebugAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSLayoutConstraint+MASDebugAdditions.h"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.h"; sourceTree = "<group>"; };
-		3027ECF3675B7D92CFE998E7807ED8BD /* Masonry.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Masonry.modulemap; sourceTree = "<group>"; };
+		3027ECF3675B7D92CFE998E7807ED8BD /* Masonry.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Masonry.modulemap; sourceTree = "<group>"; };
 		303B58A2959C8EEE96799AD558DDA1D3 /* Masonry.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Masonry.h; path = Masonry/Masonry.h; sourceTree = "<group>"; };
 		3980E01C213ECEDEABAC38C1CFD3946D /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "ViewController+MASAdditions.m"; path = "Masonry/ViewController+MASAdditions.m"; sourceTree = "<group>"; };
-		49E6E333C4A5BCC36525B946C36A1389 /* Pods-HHHyperLinkLabel_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-HHHyperLinkLabel_Example.modulemap"; sourceTree = "<group>"; };
+		41C41BBCAB844849C17E477FF8614246 /* HHFrameParser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HHFrameParser.h; sourceTree = "<group>"; };
+		43CEDFE54DFF76B48D6B00851B04D33B /* HHHyperLinkLabel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = HHHyperLinkLabel.m; sourceTree = "<group>"; };
+		49E6E333C4A5BCC36525B946C36A1389 /* Pods-HHHyperLinkLabel_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-HHHyperLinkLabel_Example.modulemap"; sourceTree = "<group>"; };
+		49F60E799670EBD8F3675218243969A7 /* HHCoreTextData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HHCoreTextData.h; sourceTree = "<group>"; };
 		4C7CDF149D6B3C35AE6AE4726219460E /* Pods-HHHyperLinkLabel_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HHHyperLinkLabel_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		4FC79F4601515555E5A5D47D46BB3990 /* Pods-HHHyperLinkLabel_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HHHyperLinkLabel_Example.release.xcconfig"; sourceTree = "<group>"; };
+		530B50BCBF324B7551E26F656D94A0AF /* HHHyperLinkLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HHHyperLinkLabel.h; sourceTree = "<group>"; };
 		537638D0C329C86D4ED401237F5D895F /* MASCompositeConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASCompositeConstraint.m; path = Masonry/MASCompositeConstraint.m; sourceTree = "<group>"; };
 		580625113DA9932A7177E12557E33464 /* Pods-HHHyperLinkLabel_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HHHyperLinkLabel_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		58581F5B1334CAC9AED493654FE405F4 /* Pods-HHHyperLinkLabel_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HHHyperLinkLabel_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -97,44 +103,44 @@
 		611E26C24600589F4729E5EF510272FB /* MASLayoutConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASLayoutConstraint.m; path = Masonry/MASLayoutConstraint.m; sourceTree = "<group>"; };
 		61881F60AB333EA86CE7881063A4BA60 /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "View+MASShorthandAdditions.h"; path = "Masonry/View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
 		61C635FA63B207AC12EA2BD25D894A65 /* Masonry.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Masonry.xcconfig; sourceTree = "<group>"; };
-		677C0A2CA68E3DFD783C325287FDA1E0 /* HHHyperLinkLabel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = HHHyperLinkLabel.m; sourceTree = "<group>"; };
 		6926CA5FD411DA1D93DE9994E639ED79 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6A01FB98F98F2E2D29B472BCF370019A /* Pods-HHHyperLinkLabel_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HHHyperLinkLabel_Example-dummy.m"; sourceTree = "<group>"; };
+		6C672E741EF3E31F00885A25 /* HHCoreTextDataUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHCoreTextDataUtil.h; sourceTree = "<group>"; };
+		6C672E751EF3E31F00885A25 /* HHCoreTextDataUtil.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHCoreTextDataUtil.m; sourceTree = "<group>"; };
+		6C672E781EF3E63000885A25 /* HHCoreTextLinkModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HHCoreTextLinkModel.h; sourceTree = "<group>"; };
+		6C672E791EF3E63000885A25 /* HHCoreTextLinkModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HHCoreTextLinkModel.m; sourceTree = "<group>"; };
 		6E4875E63FFAFF84A3CDFE99F28B551E /* MASViewConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASViewConstraint.m; path = Masonry/MASViewConstraint.m; sourceTree = "<group>"; };
 		77F2CF8861113B6F7AAE7EA65C6A7C1B /* MASConstraint+Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MASConstraint+Private.h"; path = "Masonry/MASConstraint+Private.h"; sourceTree = "<group>"; };
 		79BEFB59B86F59C579FF7594DCF78FEB /* MASCompositeConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASCompositeConstraint.h; path = Masonry/MASCompositeConstraint.h; sourceTree = "<group>"; };
 		7B9A60DEA4FDFDF5855CBD633CFFD161 /* Pods-HHHyperLinkLabel_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HHHyperLinkLabel_Example-frameworks.sh"; sourceTree = "<group>"; };
-		7DA273313B68ABD7E1D36F094C5BA9AA /* HHCoreTextData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HHCoreTextData.h; sourceTree = "<group>"; };
 		7EC0A25DD6F58D072A4ACFC92D9237BF /* View+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "View+MASAdditions.m"; path = "Masonry/View+MASAdditions.m"; sourceTree = "<group>"; };
 		7F44A621BE24B87AEF75DD7193846188 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82562329D6C8F424AC256C08F81795FF /* HHFrameParserConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HHFrameParserConfig.h; sourceTree = "<group>"; };
 		858A8A05A2F70948EEA4CD39FB819A64 /* Pods-HHHyperLinkLabel_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HHHyperLinkLabel_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		89E85C8ED3DBD9557C1751723BD1EE6C /* HHHyperLinkLabel-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HHHyperLinkLabel-umbrella.h"; sourceTree = "<group>"; };
+		8F391C211912179D9152F5CEE527A584 /* HHCoreTextData.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = HHCoreTextData.m; sourceTree = "<group>"; };
 		907CDBB3099112686F5C59255061F986 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		915556BD35976AB76DB091349FD312D9 /* HHHyperLinkLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HHHyperLinkLabel.h; sourceTree = "<group>"; };
 		9351D32350DD96AE19459C616EEA51E5 /* HHHyperLinkLabel.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HHHyperLinkLabel.xcconfig; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		96DCAB46CA2931B8140F2639F17404AF /* MASViewAttribute.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewAttribute.h; path = Masonry/MASViewAttribute.h; sourceTree = "<group>"; };
-		978A04CCA0D260BC0C4E14AC4F9EB168 /* HHHyperLinkLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = HHHyperLinkLabel.framework; path = HHHyperLinkLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		978A04CCA0D260BC0C4E14AC4F9EB168 /* HHHyperLinkLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HHHyperLinkLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		986CB32629319F7F2256662716334944 /* MASConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASConstraint.m; path = Masonry/MASConstraint.m; sourceTree = "<group>"; };
 		9F48E5DF249FDAD15B9C1EE003D4E618 /* HHHyperLinkLabel-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HHHyperLinkLabel-prefix.pch"; sourceTree = "<group>"; };
 		A02D339E60E114FCC992372E93245BA1 /* MASConstraintMaker.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASConstraintMaker.h; path = Masonry/MASConstraintMaker.h; sourceTree = "<group>"; };
 		A214B89738295B4A4B00EEB1960E8865 /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSLayoutConstraint+MASDebugAdditions.m"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
 		A7047ED910AC48A91A0923123BC3E6CF /* Pods-HHHyperLinkLabel_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HHHyperLinkLabel_Tests-resources.sh"; sourceTree = "<group>"; };
-		A762C4539F05E1E5B8810AC68B2E3491 /* HHHyperLinkLabel.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = HHHyperLinkLabel.modulemap; sourceTree = "<group>"; };
-		AC2590241B07757F0B6B390539E00B2B /* Pods-HHHyperLinkLabel_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-HHHyperLinkLabel_Tests.modulemap"; sourceTree = "<group>"; };
+		A762C4539F05E1E5B8810AC68B2E3491 /* HHHyperLinkLabel.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = HHHyperLinkLabel.modulemap; sourceTree = "<group>"; };
+		AC2590241B07757F0B6B390539E00B2B /* Pods-HHHyperLinkLabel_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-HHHyperLinkLabel_Tests.modulemap"; sourceTree = "<group>"; };
 		AD04C760F0EB4FE7B23D85D56145A97F /* MASUtilities.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASUtilities.h; path = Masonry/MASUtilities.h; sourceTree = "<group>"; };
 		B1C550CDA10D592ABB6A0383A3509F05 /* NSArray+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+MASAdditions.m"; path = "Masonry/NSArray+MASAdditions.m"; sourceTree = "<group>"; };
 		B63C6A64CF66340668996F78DA6BB482 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		B76DCF2D192F135F73D65FD001D94B1B /* Pods_HHHyperLinkLabel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HHHyperLinkLabel_Tests.framework; path = "Pods-HHHyperLinkLabel_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B909BE5B06C530EDC6433D9F1423A42B /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Masonry.framework; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B76DCF2D192F135F73D65FD001D94B1B /* Pods_HHHyperLinkLabel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HHHyperLinkLabel_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B909BE5B06C530EDC6433D9F1423A42B /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBB46C9992E8F9A0ECD777CDC6D44ED5 /* Pods-HHHyperLinkLabel_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HHHyperLinkLabel_Tests-dummy.m"; sourceTree = "<group>"; };
 		C484EF8499F67EC81CA7E27930A63CDC /* MASLayoutConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASLayoutConstraint.h; path = Masonry/MASLayoutConstraint.h; sourceTree = "<group>"; };
 		C6D5C71A7A4B3156186EC98A377E8543 /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "ViewController+MASAdditions.h"; path = "Masonry/ViewController+MASAdditions.h"; sourceTree = "<group>"; };
-		C7020A7C1B683FAD842579C748432B8A /* HHCoreTextData.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = HHCoreTextData.m; sourceTree = "<group>"; };
 		CD9460636A228DA2C8F5EC4A2AB7EBB6 /* Masonry-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Masonry-prefix.pch"; sourceTree = "<group>"; };
-		D375398A1F8981B092142153C786E96E /* HHFrameParserConfig.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = HHFrameParserConfig.m; sourceTree = "<group>"; };
 		D41FC83405F184D8FD6E135573F0A8F2 /* Pods-HHHyperLinkLabel_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HHHyperLinkLabel_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		D5BFE529EFA3E6AE5388458020F686E8 /* HHFrameParser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = HHFrameParser.h; sourceTree = "<group>"; };
 		D88AAE1F92055A60CC2FC970D7D34634 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		E65DF549F3CFBED1F541808DB0321DEA /* HHHyperLinkLabel-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HHHyperLinkLabel-dummy.m"; sourceTree = "<group>"; };
 		E7096936F9857872356C8240826EE41B /* Pods-HHHyperLinkLabel_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HHHyperLinkLabel_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -206,26 +212,9 @@
 		1D5475A7841BA2C15F002E569555B9BD /* HHHyperLinkLabel */ = {
 			isa = PBXGroup;
 			children = (
-				3207420211F8E66EAF2780C177620C98 /* Classes */,
+				7DD248DE64ABBB7EE10D42758F388BE3 /* Classes */,
 			);
-			name = HHHyperLinkLabel;
 			path = HHHyperLinkLabel;
-			sourceTree = "<group>";
-		};
-		3207420211F8E66EAF2780C177620C98 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				7DA273313B68ABD7E1D36F094C5BA9AA /* HHCoreTextData.h */,
-				C7020A7C1B683FAD842579C748432B8A /* HHCoreTextData.m */,
-				D5BFE529EFA3E6AE5388458020F686E8 /* HHFrameParser.h */,
-				27F363BC6E2486EDFEB5DCB1909F275D /* HHFrameParser.m */,
-				17DAABB56EDADF5371FB8641CAC404E8 /* HHFrameParserConfig.h */,
-				D375398A1F8981B092142153C786E96E /* HHFrameParserConfig.m */,
-				915556BD35976AB76DB091349FD312D9 /* HHHyperLinkLabel.h */,
-				677C0A2CA68E3DFD783C325287FDA1E0 /* HHHyperLinkLabel.m */,
-			);
-			name = Classes;
-			path = Classes;
 			sourceTree = "<group>";
 		};
 		3C6FD41E64E2EDDAB815237ACE29B405 /* Pods-HHHyperLinkLabel_Example */ = {
@@ -275,6 +264,24 @@
 			);
 			sourceTree = "<group>";
 		};
+		7DD248DE64ABBB7EE10D42758F388BE3 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				82562329D6C8F424AC256C08F81795FF /* HHFrameParserConfig.h */,
+				49F60E799670EBD8F3675218243969A7 /* HHCoreTextData.h */,
+				8F391C211912179D9152F5CEE527A584 /* HHCoreTextData.m */,
+				41C41BBCAB844849C17E477FF8614246 /* HHFrameParser.h */,
+				15C1083629A060BC12F24656EA98353E /* HHFrameParser.m */,
+				530B50BCBF324B7551E26F656D94A0AF /* HHHyperLinkLabel.h */,
+				43CEDFE54DFF76B48D6B00851B04D33B /* HHHyperLinkLabel.m */,
+				6C672E741EF3E31F00885A25 /* HHCoreTextDataUtil.h */,
+				6C672E751EF3E31F00885A25 /* HHCoreTextDataUtil.m */,
+				6C672E781EF3E63000885A25 /* HHCoreTextLinkModel.h */,
+				6C672E791EF3E63000885A25 /* HHCoreTextLinkModel.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		A2A20986957FCCEF3865AFC2DAE207A8 /* Masonry */ = {
 			isa = PBXGroup;
 			children = (
@@ -305,7 +312,6 @@
 				3980E01C213ECEDEABAC38C1CFD3946D /* ViewController+MASAdditions.m */,
 				AB2D74BCA437C31F2B7B0E2905262257 /* Support Files */,
 			);
-			name = Masonry;
 			path = Masonry;
 			sourceTree = "<group>";
 		};
@@ -397,8 +403,10 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6C672E7A1EF3E63000885A25 /* HHCoreTextLinkModel.h in Headers */,
 				1F71C53A95A15DF35E3D1490A6022F2E /* HHCoreTextData.h in Headers */,
 				44C32B0B0A7AEFEAB9AB8C56C04A7EB9 /* HHFrameParser.h in Headers */,
+				6C672E761EF3E31F00885A25 /* HHCoreTextDataUtil.h in Headers */,
 				FCD8638EF43B0590669F5D0D7C62E3E0 /* HHFrameParserConfig.h in Headers */,
 				A4778FDB8A738C98B52EE2B996DB2E40 /* HHHyperLinkLabel-umbrella.h in Headers */,
 				0E0F09F3C1371A0C1B73D839731C5D0B /* HHHyperLinkLabel.h in Headers */,
@@ -443,7 +451,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F5DB05858B9E184DC26D56C0EE0E2286 /* Build configuration list for PBXNativeTarget "HHHyperLinkLabel" */;
 			buildPhases = (
-				30DA2A35ACFD34F160113C65F17B4D3A /* Sources */,
+				B9311E00A4AB1607C8B8D767C5CF2B03 /* Sources */,
 				F7374E9B29050B41FDD10F6EC70C636E /* Frameworks */,
 				CCB5E3F73811C4C01A0FF3873541A211 /* Headers */,
 			);
@@ -557,23 +565,24 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		30DA2A35ACFD34F160113C65F17B4D3A /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				867C062D0A77A6DC368B8C34EF77720B /* HHCoreTextData.m in Sources */,
-				71B562ACCA9CACE5E1D85729653E0C10 /* HHFrameParser.m in Sources */,
-				6ABB13C001C0DD4979607463DE8BE5F5 /* HHFrameParserConfig.m in Sources */,
-				EF54E229B655CDC2EE9F140CBF6FE49E /* HHHyperLinkLabel-dummy.m in Sources */,
-				908187AD3067237217C5AE75B18E66E7 /* HHHyperLinkLabel.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		51DF6B370108A269B142585C38E5C226 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				3B3387A6705AA5C453FAE20BDF8DF62A /* Pods-HHHyperLinkLabel_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9311E00A4AB1607C8B8D767C5CF2B03 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				16A8BD9A4FACCAB874CB68315BF6C3A8 /* HHCoreTextData.m in Sources */,
+				D5B92D07DBF01272CCD04641874EDE56 /* HHFrameParser.m in Sources */,
+				6099AEF9A68B05B080CDD7723CA4B9C1 /* HHHyperLinkLabel-dummy.m in Sources */,
+				6C672E7B1EF3E63000885A25 /* HHCoreTextLinkModel.m in Sources */,
+				6C672E771EF3E31F00885A25 /* HHCoreTextDataUtil.m in Sources */,
+				B1A648BB95D741504753D9B143F86C61 /* HHHyperLinkLabel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

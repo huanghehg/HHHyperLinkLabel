@@ -37,11 +37,12 @@
 
     
     NSMutableParagraphStyle *para = [[NSMutableParagraphStyle alloc] init];
-    para.lineSpacing = 10;
+    para.lineSpacing = 0;
     
     
-    NSAttributedString *string = [[NSAttributedString alloc] initWithString:@"我要点击的地方戳一下我要点击的地方戳一下我要点击的地方戳一下我要点击的地方戳一下我要点击的地方戳一下我要点击的地方戳一下我要点击的地方戳一下我要点击的地方戳一下" attributes:@{NSFontAttributeName:[UIFont systemFontOfSize:12],
-                                                                                                       NSForegroundColorAttributeName:[UIColor redColor],NSParagraphStyleAttributeName:para}];
+    NSMutableAttributedString *string = [[NSMutableAttributedString alloc] initWithString:@"我要点击的地方戳一下"];
+    [string addAttributes:@{NSFontAttributeName:[UIFont systemFontOfSize:12],
+                                       NSForegroundColorAttributeName:[UIColor redColor],NSParagraphStyleAttributeName:para} range:NSMakeRange(string.length-3, 3)];
     HHCoreTextData *data = [HHFrameParser frameParserWithAttributedString:string width:self.view.bounds.size.width - 20];
     linkLabel.data = data;
     [linkLabel mas_updateConstraints:^(MASConstraintMaker *make) {

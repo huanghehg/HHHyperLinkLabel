@@ -34,4 +34,9 @@
     _data = data;
     [self setNeedsDisplay];
 }
+
+- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
+    UITouch *touch = [touches anyObject];
+    CGPoint point = [touch locationInView:self];
+}
 @end
